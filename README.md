@@ -9,7 +9,7 @@
 
 - 📚 Check out my [Programming Using Java](https://github.com/kkag840/infosys-Programming-using-java-Java-Fundamental) repository for all assignments and exercises.
 
-- 📊 Explore my [LeetCode SQL 50 Questions](https://github.com/kkag840/LeetCode-SQL-50-Questions) repository.
+- 📊 Explore my [LeetCode SQL Top 50 Questions](https://github.com/kkag840/LeetCode-SQL-50) repository.
 
 - 💬 Ask me about **C, Java, SQL, DSA, JavaScript, Frontend development**
 
