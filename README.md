@@ -11,7 +11,7 @@
 
 ### Backend Software Engineer
 
-I’m a Backend Developer with a strong focus on building scalable and well-structured backend systems using Java and Spring Boot. I have completed my B.Tech and currently work at a software company, where I contribute to backend services and system development.
+I’m a Backend Developer with a strong focus on building scalable and well-structured backend systems using Java and Spring Boot. I have completed my B.Tech and currently working as a software engineer , where I contribute to backend services and system development.
 
 ---
 ## Contact Me
